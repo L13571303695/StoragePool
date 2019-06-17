@@ -8,4 +8,9 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+        System.out.println(i);
+    }
 }
